@@ -4,7 +4,10 @@
 192.168.16.100   rh9-workstation
 
 ## Red Hat Enterprise Linux 9
-192.168.16.101	rh9-server1
-192.168.16.102	rh9-server2
-192.168.16.103	rh9-server3
-192.168.16.104	rh9-server4
+192.168.16.101   rh9-server1
+192.168.16.102   rh9-server2
+192.168.16.103   rh9-server3
+192.168.16.104   rh9-server4
+
+## Red Hat Enterprise Linux 10
+192.168.16.110   rh10-server1
