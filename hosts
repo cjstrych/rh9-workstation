@@ -1,0 +1,10 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+127.0.0.1   rh9-workstation
+192.168.16.100   rh9-workstation
+
+## Red Hat Enterprise Linux 9
+192.168.16.101	rh9-server1
+192.168.16.102	rh9-server2
+192.168.16.103	rh9-server3
+192.168.16.104	rh9-server4
